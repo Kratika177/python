@@ -1,0 +1,5 @@
+import sample
+import chapter_23_modules_random
+sample.pr()
+print(chapter_23_modules_random.l)
+#by using import we can use any of our python files in our code but if will completely excecutes even before using so in order to stop that we should create main function.
